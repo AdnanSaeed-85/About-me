@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=adnansaeed-85&label=Profile%20views&color=0e75b6&style=flat" alt="adnansaeed-85" />
+  <img src="https://komarev.com/ghpvc/?username=AdnanSaeed-85&label=Profile%20views&color=0e75b6&style=flat" alt="AdnanSaeed-85" />
 </p>
 
 <p>
@@ -58,15 +58,15 @@ I’m an **AI & Machine Learning Engineer** focused on building practical, produ
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnansaeed-85&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdnanSaeed-85&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
 </a>
 
 <br/>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=adnansaeed-85&show_icons=true&theme=radical&hide_border=true" alt="Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnansaeed-85&theme=radical&hide_border=true" alt="Streak" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=AdnanSaeed-85&show_icons=true&theme=radical&hide_border=true" alt="Stats" /> | <img src="https://streak-stats.demolab.com?user=AdnanSaeed-85&theme=radical&hide_border=true" alt="Streak" /> |
 | :---: | :---: |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnansaeed-85&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdnanSaeed-85&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 
 </div>
 
