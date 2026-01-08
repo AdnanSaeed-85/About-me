@@ -3,7 +3,7 @@
 # Hi there, I'm Adnan Saeed 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=AI+%26+Building+AI+Conversational+Agents;Machine+Learning+Engineer;Building+Autonomous+Agents;Expert+in+LLMs+%26+RAG+Systems;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Building+AI+Conversational+Agents;Machine+Learning+Engineer;Building+Autonomous+Agents;Expert+in+LLMs+%26+RAG+Systems;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
 </a>
 
 <p>
