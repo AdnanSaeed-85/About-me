@@ -51,19 +51,6 @@ I’m an **AI & Machine Learning Engineer** focused on building practical, produ
 
 </div>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnansaeed-85&theme=onedark&no-frame=true&no-bg=true&margin-w=4&v=2" alt="trophy" />
-</a>
-
-<br/>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=adnansaeed-85&show_icons=true&theme=radical&hide_border=true&v=2" alt="Stats" /> | <img src="https://streak-stats.demolab.com?user=adnansaeed-85&theme=radical&hide_border=true&v=2" alt="Streak" /> |
 | :---: | :---: |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnansaeed-85&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&v=2" alt="Languages" />
