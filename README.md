@@ -20,8 +20,8 @@ I enjoy turning ideas into working solutions and continuously improving my skill
 ---
 
 ### 💼 Experience
-- ✅ **AI Internship** — Worked on AI/ML projects, model development, and real-world problem solving  
-- ✅ Personal projects focused on practical AI use cases  
+- ✅ **AI Internship**  Worked on AI/ML projects, model development, and real-world problem solving  
+- ✅ **Personal projects** focused on practical AI use cases  
 
 ---
 
@@ -32,9 +32,13 @@ I enjoy turning ideas into working solutions and continuously improving my skill
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanSaeed-85&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdnanSaeed-85)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanSaeed-85&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanSaeed-85&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdnanSaeed-85&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanSaeed-85&layout=compact&theme=dark)
+
 
 ---
 
